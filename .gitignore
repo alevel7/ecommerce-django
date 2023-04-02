@@ -3,10 +3,12 @@
 *.pot
 *.pyc
 __pycache__
+**__pycache__/
 ***__pycache__/
 db.sqlite3
 *.sqlite3
 media
+schema.yml
 
 # Backup files # 
 *.bak 
